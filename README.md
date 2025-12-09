@@ -3,41 +3,43 @@
 ### IIIT Bhopal | CSE | GenAI & Deep Learning Enthusiast | ML | DSA
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=samarthgour2005&label=Profile%20Views&color=0e75b6&style=flat-square&v=1" alt="samarthgour2005" />
+  <img src="https://komarev.com/ghpvc/?username=samarthgour2005&label=Profile%20Views&color=0e75b6&style=flat&v=1" alt="Profile views" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
-
-- 🌱 Currently learning **FastAPI**
-- 👯 Looking to collaborate on **GenAI / Machine Learning projects**
+- 🌱 I'm currently learning **FastAPI**
+- 👯 I'm looking to collaborate on **GenAI / ML projects**
 - 💬 Ask me about:
   - Machine Learning & Deep Learning  
   - Computer Vision  
-  - Data Structures & Algorithms  
+  - Data Structures and Algorithms  
   - Python & C++  
   - Competitive Programming  
-  - Open Source Contributions
-- 📫 Reach me at **samarthgour2005@gmail.com**
+  - Open Source Contributions  
+- 📫 How to reach me: **samarthgour2005@gmail.com**
 - ⚡ Fun fact: **Basketball player**
 
 ---
 
-### 🤝 Connect with Me
+### Connect with me
 
 <p align="left">
   <a href="https://github.com/samarthgour2005" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="40" height="30" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub - samarthgour2005" height="30" width="40" />
   </a>
   <a href="https://linkedin.com/in/samarth-gour-94941628a" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="30" />
-  </a>
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - samarth-gour-94941628a" height="30" width="40" />
   <a href="https://codechef.com/users/samarth80" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codechef.svg" width="40" height="30" />
-  </a>
+  <img align="center"
+       src="https://cdn.simpleicons.org/codechef"
+       alt="CodeChef"
+       height="30"
+       width="40" />
+</a>
+
   <a href="https://codeforces.com/profile/samarth_gour" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="40" height="30" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces - samarth_gour" height="30" width="40" />
   </a>
 </p>
 
@@ -46,16 +48,36 @@
 ### 🛠️ Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,fastapi,pytorch,tensorflow,postgres,mysql,html,css" />
-  <img src="https://cdn.simpleicons.org/huggingface" width="40" />
-  <img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="40" />
-  <img src="https://cdn.simpleicons.org/mlflow/0194E2" width="40" />
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="40" height="40" />
+  </a>
+  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,fastapi,pytorch,tensorflow,mysql,postgres" alt="Tech stack" height="40" />
+  <img src="https://cdn.simpleicons.org/huggingface" alt="HuggingFace" width="40" height="40" />
+  <img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="LangChain" width="40" height="40" />
+  <img src="https://cdn.simpleicons.org/mlflow/0194E2" alt="MLflow" width="40" height="40" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Analytics
+
+<!-- <p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarthgour2005&layout=compact&langs_count=8&theme=default"
+    alt="Top languages"
+  />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samarthgour2005&theme=default" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=samarthgour2005&show_icons=true&theme=default&include_all_commits=true&count_private=true"
+    alt="GitHub stats"
+  />
+</p> -->
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=samarthgour2005&theme=default"
+    alt="GitHub streak"
+  />
 </p>
