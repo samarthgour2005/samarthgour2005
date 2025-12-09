@@ -26,20 +26,43 @@
 
 <p align="left">
   <a href="https://github.com/samarthgour2005" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub - samarthgour2005" height="30" width="40" />
+    <img align="center"
+         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"
+         alt="GitHub - samarthgour2005"
+         height="30"
+         width="40" />
   </a>
+
   <a href="https://linkedin.com/in/samarth-gour-94941628a" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - samarth-gour-94941628a" height="30" width="40" />
+    <img align="center"
+         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+         alt="LinkedIn - samarth-gour-94941628a"
+         height="30"
+         width="40" />
+  </a>
+
   <a href="https://codechef.com/users/samarth80" target="_blank">
-  <img align="center"
-       src="https://cdn.simpleicons.org/codechef"
-       alt="CodeChef"
-       height="30"
-       width="40" />
-</a>
+    <img align="center"
+         src="https://cdn.simpleicons.org/codechef"
+         alt="CodeChef - samarth80"
+         height="30"
+         width="40" />
+  </a>
 
   <a href="https://codeforces.com/profile/samarth_gour" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces - samarth_gour" height="30" width="40" />
+    <img align="center"
+         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg"
+         alt="Codeforces - samarth_gour"
+         height="30"
+         width="40" />
+  </a>
+
+  <a href="https://leetcode.com/samarthgour" target="_blank">
+    <img align="center"
+         src="https://cdn.simpleicons.org/leetcode"
+         alt="LeetCode - samarthgour"
+         height="30"
+         width="40" />
   </a>
 </p>
 
@@ -60,24 +83,14 @@
 ---
 
 ### 📊 GitHub Analytics
+![](https://github-readme-stats.vercel.app/api?username=samarthgour2005&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=samarthgour2005&theme=synthwave&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=samarthgour2005&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<!-- <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarthgour2005&layout=compact&langs_count=8&theme=default"
-    alt="Top languages"
-  />
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=samarthgour2005&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=samarthgour2005&show_icons=true&theme=default&include_all_commits=true&count_private=true"
-    alt="GitHub stats"
-  />
-</p> -->
+---
+[![](https://visitcount.itsvg.in/api?id=samarthgour2005&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=samarthgour2005&theme=default"
-    alt="GitHub streak"
-  />
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
