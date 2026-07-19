@@ -12,13 +12,12 @@
 - 👯 I'm looking to collaborate on **GenAI / ML projects**
 - 💬 Ask me about:
   - Machine Learning & Deep Learning  
-  - Computer Vision  
   - Data Structures and Algorithms  
   - Python & C++  
   - Competitive Programming  
-  - Open Source Contributions  
+  - Computer Vision  
 - 📫 How to reach me: **samarthgour2005@gmail.com**
-- ⚡ Fun fact: **Basketball player**
+- ⚡ Fun fact: **Basketball player** Little Volleyball
 
 ---
 
