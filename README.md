@@ -74,8 +74,7 @@
   <img src="https://cdn.simpleicons.org/huggingface" alt="HuggingFace" width="40" height="40" />
   <img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="LangChain" width="40" height="40" />
   <img src="https://cdn.simpleicons.org/mlflow/0194E2" alt="MLflow" width="40" height="40" />
- 
-  <img src="https://skillicons.dev/icons?i= html,css" alt="Tech stack" height="40" />
+  <img src="https://skillicons.dev/icons?i=html,css" alt="HTML CSS" height="40" />
 </p>
 
 ---
