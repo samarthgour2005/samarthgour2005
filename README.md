@@ -70,10 +70,7 @@
 ### 🛠️ Languages and Tools
 
 <p align="left">
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="40" height="40" />
-  </a>
-  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,fastapi,pytorch,tensorflow,mysql,postgres" alt="Tech stack" height="40" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,fastapi,pytorch,tensorflow,mysql" alt="Tech stack" height="40" />
   <img src="https://cdn.simpleicons.org/huggingface" alt="HuggingFace" width="40" height="40" />
   <img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="LangChain" width="40" height="40" />
   <img src="https://cdn.simpleicons.org/mlflow/0194E2" alt="MLflow" width="40" height="40" />
